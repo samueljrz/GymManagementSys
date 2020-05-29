@@ -1,4 +1,66 @@
 {
-  "members": [],
-  "instructors": []
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Aluno I",
+      "email": "alunoI@gmail.com",
+      "birth": 635558400000,
+      "gender": "M",
+      "blood": "OP",
+      "weight": "65",
+      "height": "165",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Aluno II",
+      "email": "alunoII@gmail.com",
+      "birth": 413251200000,
+      "gender": "O",
+      "blood": "NS",
+      "weight": "85",
+      "height": "180",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Aluno III",
+      "email": "alunoIII@gmail.com",
+      "birth": 812332800000,
+      "gender": "F",
+      "blood": "ON",
+      "weight": "50",
+      "height": "160",
+      "id": 3
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1561729955-89357c733059?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Leo Stronda",
+      "birth": 345427200000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1590785189946
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1558017487-06bf9f82613a?ixlib=rb-1.2.1&auto=format&fit=crop&w=405&q=80",
+      "name": "Paulo Cintura",
+      "birth": 16243200000,
+      "gender": "M",
+      "services": "Musculação, Crossfit, Aerobica",
+      "created_at": 1590785278940
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Bambam",
+      "birth": 287020800000,
+      "gender": "M",
+      "services": "Bodybuilder",
+      "created_at": 1590785350778
+    }
+  ]
 }
